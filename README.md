@@ -4,7 +4,8 @@
 
 ![logo](https://github.com/thesamarthrai/thesamarthrai/blob/master/banner.svg)
 <br><br>
-![Coder logo](https://github.com/thesamarthrai/thesamarthrai/blob/master/coder.svg)
+![Coder logo](https://github.com/thesamarthrai/thesamarthrai/blob/master/coder.svg)<br><br>
+![Thanks message](https://github.com/thesamarthrai/thesamarthrai/blob/master/thanks.svg)<br><br>
 
 <img align="right" alt="coding gif" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
