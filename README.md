@@ -4,7 +4,7 @@
 
 ![logo](https://github.com/thesamarthrai/thesamarthrai/blob/master/banner.svg)
 <br><br>
-<h3 align="center" style="font-size: 32px;color: lime;">A passionate frontend developer and Coder from India</h3>
+![Coder logo](https://github.com/thesamarthrai/thesamarthrai/blob/master/coder.svg)
 
 <img align="right" alt="coding gif" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
