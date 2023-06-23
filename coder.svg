@@ -1,0 +1,18 @@
+<svg fill="none" viewBox="0 0 430 40" width="430" height="40" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+      <style>
+        @keyframes blink-animation {
+          to {
+            visibility: hidden;
+          }
+        }
+    </style>
+		<div xmlns="http://www.w3.org/1999/xhtml">
+      <span style="font-family:cursive;font-size:1.5em;text-shadow: 1px 1px 1px #ba0d59;
+    color: #e413a0;">A passionate developer and </span>
+      <span style=" font-family:cursive;font-size:1.5em;text-shadow: 1px 1px 1px #7733cc;
+    color: #081aab;animation:blink-animation 1s steps(5, start) infinite;">Coder</span>
+		</div>
+  
+	</foreignObject>
+</svg>
