@@ -9,7 +9,7 @@
     </style>
 		<div xmlns="http://www.w3.org/1999/xhtml">
       <span style="font-family:cursive;font-size:1.5em;text-shadow: 1px 1px 1px lawngreen;color:lime;">My Name is Samarth and I like </span>
-      <span style=" font-family:cursive;font-size:1.5em;text-shadow: 1px 1px 1px lawngreen;color:lime; animation:blink-animation 1s steps(5, start) infinite;">Coding</span>
+      <span style=" font-family:cursive;font-size:1.5em;text-shadow: 1px 1px 1px lawngreen;color:lime; animation:blink-animation 1s steps(5, start);">Coding</span>
 		</div>
   
 	</foreignObject>
