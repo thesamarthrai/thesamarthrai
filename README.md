@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/samarthrai1" target="blank"><img src="https://img.shields.io/twitter/follow/samarthrai1?logo=twitter&style=for-the-badge" alt="samarthrai1"/></a> </p>
 
-- 🌱 I’m currently learning **AI ML**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **raisamarth19@gmail.com**<br><br>
 
