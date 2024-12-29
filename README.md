@@ -45,7 +45,7 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=thesamarthrai&limit=5&theme=light&combine_all_yearly_contributions=true)
 
-  
+
 </p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=juicy)
