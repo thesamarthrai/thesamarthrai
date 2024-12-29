@@ -9,7 +9,7 @@
 
 <img align="right" alt="coding gif" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-<p align="left"> <a href="https://twitter.com/samarthrai1" target="blank"><img src="https://img.shields.io/twitter/follow/samarthrai1?logo=twitter&style=for-the-badge" alt="samarthrai1"/></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/thesamarthrai" target="blank"><img src="https://img.shields.io/twitter/follow/samarthrai1?logo=twitter&style=for-the-badge" alt="Samarth Rai"/></a> </p>
 
 - 🌱 I’m currently learning **MERN**
 
