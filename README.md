@@ -37,7 +37,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesamarthrai&" alt="thesamarthrai" /></p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thesamarthrai/thesamarthrai/blob/output/github-snake-dark.svg)
 
 ![](https://github-profile-trophy.vercel.app/?username=thesamarthrai&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
