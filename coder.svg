@@ -8,9 +8,9 @@
         }
     </style>
 		<div xmlns="http://www.w3.org/1999/xhtml">
-      <span style="font-family:cursive;font-size:1.5em;text-shadow: 1px 1px 1px #ba0d59;
+      <span style="font-family:cursive;font-size:1.5em;text-shadow: 1px 1px 1px black;
     color: lime;">A passionate developer and </span>
-      <span style=" font-family:cursive;font-size:1.5em;text-shadow: 1px 1px 1px #7733cc;
+      <span style=" font-family:cursive;font-size:1.5em;text-shadow: 1px 1px 1px black;
     color: lime;animation:blink-animation 1s steps(5, start);">Coder</span>
 		</div>
   
